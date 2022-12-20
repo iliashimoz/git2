@@ -18,7 +18,7 @@ int main()
         switch(op)
         {
             case '+':
-                cout << "Sorry, it's under development" << endl;
+                cout << a << " + " << b << " = " << Add(a, b) << endl;
                 break;
 
             case '-':
