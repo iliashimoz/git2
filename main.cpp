@@ -22,7 +22,7 @@ int main()
                 break;
 
             case '-':
-                cout << "Sorry, it's under development" << endl;
+                cout << a << " - " << b << " = " << Sub(a, b) << endl;
                 break;
 
             case '*':
