@@ -30,7 +30,7 @@ int main()
                 break;
 
             case '/':
-                cout << "Sorry, it's under development" << endl;
+				cout << a << " / " << b << " = " << Div(a, b) << endl;
                 break;
 
             default:
