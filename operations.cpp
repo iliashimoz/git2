@@ -10,3 +10,7 @@ float Sub (float a, float b)
     return a-b;
 }
 
+float Div (float a, float b)
+{
+	return a/b;
+}
